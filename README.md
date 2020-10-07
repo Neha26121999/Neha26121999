@@ -8,5 +8,5 @@ Learning and always be a good Learner....Love learning and Sharing and discoveri
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me Anything😄
 - 📫 How to reach me: https://www.linkedin.com/in/neha-srivastava-5608331a0/ (Linkedin)
-- 😄 Goals: To contribute Open Source Commumity
+- 😄 Goals: contribute on Open Source Commumity
 - ⚡ Fun fact: I love Playing Badminton and reading books.
