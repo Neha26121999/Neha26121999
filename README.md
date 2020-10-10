@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm "Neha Srivastava"</h1>
-<h3 align="center">Hi I am "Neha Srivastava" 👋 Glad to see you here! 🤩 Learning and always be a good Learner....Love learning and Sharing and discovering myself😄..I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Devbhoomi Group of Institutions 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. . I'm currently work on Machine Learning and Deep Learning End to End Projects 🤓.</h3>
+<h3 align="center">Hi I am "Neha Srivastava" 👋 Glad to see you here! 🤩 Learning and always be a good Learner....Love learning and Sharing and discovering myself😄..I'm a third year student pursuing Bachelors's in Computer Science from Devbhoomi Group of Institutions 🏛.. I'm currently work on Machine Learning and Deep Learning End to End Projects 🤓.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha26121999" alt="neha26121999" /> </p>
 
