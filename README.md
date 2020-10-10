@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Data Science,Data Structure and many more..**
 
-- 👯 I’m looking to collaborate on **Youtube**
-
 - 💬 Ask me about **Anything😄**
 
 - 📫 How to reach me **https://www.linkedin.com/in/neha-srivastava-5608331a0/(Linkedin)**
