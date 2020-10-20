@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love Playing Badminton and reading books.**
 
+Youtube Channel Link :https://www.youtube.com/channel/UCaet9DRrOO85uTQf0T8v17w
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@nehakum52303968" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@nehakum52303968" height="30" width="40" /></a>
